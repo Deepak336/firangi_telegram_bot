@@ -1,0 +1,4 @@
+To setup:
+1. Install and setup  pipenv
+2. Enter shell using pipenv shell
+
